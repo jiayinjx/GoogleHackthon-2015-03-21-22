@@ -1,0 +1,27 @@
+Princeton University, 3.85, 108, 2250,eastern, Ivy League and known for science education, 1
+Harvard University, 3.85, 108, 2240,eastern, Ivy League and famous for business, 2
+Yale University, 3.84, 106, 2260,eastern, Ivy League and best law school, 3
+Stanford University, 3.86, 110, 2240,western, close to silicon valley and strong reputation for engineering, 4
+University of Chicago, 3.84, 107, 2200,middle, big city area and known for economics, 4
+Massachusetts Institute of Technology, 3.88, 103, 2260,eastern, best engineering school, 7
+Columbia University, 3.76, 108, 2200,eastern, downtown new york city, 4
+Duke University, 3.7, 106, 2200,southern, best college in southern America, 8
+Johns Hopkins University, 3.66, 106, 2150,eastern, known for health and arts education, 12
+University of California Berkeley, 3.76, 108, 2080,western, best public college and good at engineering, 20
+University of California Los Angeles, 3.67, 105, 2040,western, most popular college, 23
+Carnegie Mellon University, 3.56, 103, 2050,eastern, known for computer science, 25
+University of Michigan Ann Arbor, 3.57, 104, 2020,middle, one of the best public college, 29
+New York University, 3.65, 105, 2000,eastern, downtown new york city, 32
+Georgia Institute of Technology, 3.66, 101, 2010,southern, excellent engineering programs, 35
+University of California San Diego, 3.55, 95, 1950,western, beautiful bay area, 37
+University of California Davis, 3.53, 93, 1850,western, beautiful bay area, 38
+University of California Santa Barbara, 3.65, 99, 1890,western, nice social science studies, 40
+Boston University, 3.55, 100, 1900,eastern, big city area, 42
+University of Illinois Urbana Champaign, 3.55, 102, 1850,middle, good engineering program, 42
+University of Wisconsin Madison, 3.66, 105, 2000,middle, various students activity and good computer science programs, 47
+University of Texas Austin, 3.56, 103, 1900,southern, good engineering program, 52
+Ohio State University Columbus, 3.54, 98, 1850,middle, biggest campus in america, 54
+Purdue University West Lafayette, 3.56, 99, 1900,middle, famous for engineering studies, 62
+University of Maryland College Park, 3.44, 89, 1800,middle, cool campus, 63
+University of Minnesota Twin Cities, 3.54, 89, 1780,middle, cold weather and nice campus, 71
+Michigan State University, 3.44, 79, 1760,middle, close to big city, 85
